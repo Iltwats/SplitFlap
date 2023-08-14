@@ -1,4 +1,6 @@
 # SplitFlap
 Preview of App
-https://github.com/Iltwats/SplitFlap/assets/54139896/9b8289c0-af01-4bce-a7ad-f7f6e72ce2aa
+
+https://github.com/Iltwats/SplitFlap/assets/54139896/15fd69b4-bc33-406b-ad4d-de84fe11234f
+
 
